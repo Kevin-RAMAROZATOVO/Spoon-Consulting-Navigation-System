@@ -1,0 +1,109 @@
+{
+  "groups": [
+    {
+        "label": "Building",
+        "items": [
+            "Checkpoint000",
+            "Checkpoint006",
+            "Checkpoint008",
+            "Checkpoint012",
+            "Checkpoint015",
+            "Checkpoint030"
+        ]
+    },
+    {
+      "label": "Department",
+      "items": [
+        "Checkpoint001",
+        "Checkpoint002",
+        "Checkpoint003",
+        "Checkpoint004",
+        "Checkpoint023",
+        "Checkpoint029",
+        "Checkpoint028",
+        "Checkpoint035"
+      ]
+    },
+    {
+      "label": "Meeting Room",
+      "items": [
+        "Checkpoint005",
+        "Checkpoint014",
+        "Checkpoint016",
+        "Checkpoint017",
+        "Checkpoint018",
+        "Checkpoint019",
+        "Checkpoint020",
+        "Checkpoint022",
+        "Checkpoint024",
+        "Checkpoint025",
+        "Checkpoint026",
+        "Checkpoint027",
+        "Checkpoint031",
+        "Checkpoint036",
+        "Checkpoint037",
+        "Checkpoint038",
+        "Checkpoint040",
+        "Checkpoint043"
+      ]
+    },
+    {
+      "label": "Gathering Corner",
+      "items": [
+        "Checkpoint033",
+        "Checkpoint007",
+        "Checkpoint021",
+        "Checkpoint009",
+        "Checkpoint010",
+        "Checkpoint011",
+        "Checkpoint013"
+      ]
+    }
+  ],
+  "labels": {
+            "Checkpoint000": "Main Entrance",
+            "Checkpoint001": "Integration Services",
+            "Checkpoint002": "ERP",
+            "Checkpoint003": "SharinPix",
+            "Checkpoint004": "Salesforce",
+            "Checkpoint005": "Cardinal",
+            "Checkpoint006": "Fire Exit (Integration)",
+            "Checkpoint007": "Small Kitchen (Integration)",
+            "Checkpoint008": "Fire Exit (ERP)",
+            "Checkpoint009": "Paille en Queue",
+            "Checkpoint010": "Kestrel Corner",
+            "Checkpoint011": "Parakeet Nest",
+            "Checkpoint012": "Fire Exit (SharinPix)",
+            "Checkpoint013": "Dodo Den",
+            "Checkpoint014": "Cato Vert",
+            "Checkpoint015": "Fire Exit (Salesforce)",
+            "Checkpoint016": "Vacoas",
+            "Checkpoint017": "Latanier",
+            "Checkpoint018": "Ebene",
+            "Checkpoint019": "Ravenala",
+            "Checkpoint020": "Tecoma",
+            "Checkpoint021": "Small Kitchen(Management)",
+            "Checkpoint022": "Trochetia",
+            "Checkpoint023": "Management",
+            "Checkpoint024": "Corps de Garde",
+            "Checkpoint025": "Coral Cove",
+            "Checkpoint026": "Shark Tank",
+            "Checkpoint027": "Turtle Bay",
+            "Checkpoint028": "IT Support",
+            "Checkpoint029": "FSI",
+            "Checkpoint030": "Fire Exit(Elevator)",
+            "Checkpoint031": "Rempart",
+            "Checkpoint032": "<Undefined>",
+            "Checkpoint033": "Main Kitchen",
+            "Checkpoint034": "<Undefined>",
+            "Checkpoint035": "Admin/POLE",
+            "Checkpoint036": "Le Morne",
+            "Checkpoint037": "La Tourelle",
+            "Checkpoint038": "Pieter Both",
+            "Checkpoint039": "<Undefined>",
+            "Checkpoint040": "Le Pouce",
+            "Checkpoint041": "<Undefined>",
+            "Checkpoint042": "<Undefined>",
+            "Checkpoint043": "Telferia MR"
+}
+}
